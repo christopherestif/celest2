@@ -1,0 +1,82 @@
+fields 34
+worms 5
+Wave_Initiation_Rate_Median
+NaN 11.070778 57.586376 NaN NaN 
+Wave_Initiation_Rate_Range
+NaN 12.993993 55.915519 NaN NaN 
+Body_Wave_Number_Median
+NaN 1.428547 0.206405 NaN NaN 
+Body_Wave_Number_Range
+NaN 1.513839 0.313231 NaN NaN 
+Asymmetry_Median
+NaN -0.038991 -0.006700 NaN NaN 
+Asymmetry_Range
+NaN 0.156610 0.138141 NaN NaN 
+Reverse_Swimming
+NaN 3.464870 19.484821 NaN NaN 
+Curling
+NaN 0.000000 0.667904 NaN NaN 
+Stretch_Median
+NaN 0.456037 0.372125 NaN NaN 
+Stretch_Range
+NaN 0.164541 0.217656 NaN NaN 
+Attenuation_Median
+NaN 55.772443 60.413202 NaN NaN 
+Attenuation_Range
+NaN 21.963803 52.929185 NaN NaN 
+Traveling_Speed_Mean
+NaN 0.612466 6.845357 NaN NaN 
+Brush_Stroke_Median
+NaN 0.038369 0.182426 NaN NaN 
+Brush_Stroke_Range
+NaN 0.009184 0.041412 NaN NaN 
+Activity_Index_Median
+NaN 20.709072 156.673862 NaN NaN 
+Activity_Index_Range
+NaN 25.980754 131.021100 NaN NaN 
+Wave_Initiation_Rate_10
+NaN 9.629982 34.484515 NaN NaN 
+Body_Wave_Number_10
+NaN 0.157859 0.047812 NaN NaN 
+Asymmetry_10
+NaN -0.104325 -0.084291 NaN NaN 
+Stretch_10
+NaN 0.381493 0.258765 NaN NaN 
+Attenuation_10
+NaN 45.784933 17.344566 NaN NaN 
+Brush_Stroke_10
+NaN 0.033239 0.164598 NaN NaN 
+Activity_Index_10
+NaN 16.982858 97.539071 NaN NaN 
+usability
+1.000000 0.954044 0.990809 0.959559 0.172794 
+status
+rejected
+valid
+valid
+rejected
+rejected
+highThr
+40.000000 34.000000 50.000000 30.000000 35.000000 
+lowThr
+25.000000 19.000000 29.000000 16.000000 11.000000 
+prevThr
+25.000000 25.000000 25.000000 25.000000 25.000000 
+highThrDef
+40.000000 34.000000 50.000000 30.000000 35.000000 
+lowThrDef
+25.000000 14.000000 29.000000 16.000000 11.000000 
+prevThrDef
+25.000000 25.000000 25.000000 25.000000 25.000000 
+manualSeparators
+
+
+489  490  488  487  486
+
+
+separators
+1  381  382  461  462  545
+1    7    8   21   22   24   25   35   36   40   41   42   43   44   45   46   47   48   49   90   91  122  123  127  128  261  262  263  265  266  267  271  272  309  310  501  503  545
+1  321  322  351  352  388  389  481  482  486  487  488  489  490  491  492  545
+1    5    6    8    9   14   15   16   17   18   19   22   23   32   33   36   37   38   39   41   42   46   47   57   58   59   60   63   64   66   67   69   70   71   72   81   82   83  101  102  221  222  241  242  263  264  281  282  316  317  382  383  387  388  400  401  403  404  416  417  445  446  456  457  471  472  492  493  504  505  508  509  513  514  520  521  525  526  530  531  534  535  537  538  541  542  543  544  545
+1  301  302  308  309  313  361  362  383  384  411  412  415  416  424  425  429  430  451  545

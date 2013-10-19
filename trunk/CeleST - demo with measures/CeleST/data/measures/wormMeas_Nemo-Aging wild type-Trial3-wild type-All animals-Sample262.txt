@@ -1,0 +1,82 @@
+fields 34
+worms 5
+Wave_Initiation_Rate_Median
+9.856409 20.289004 NaN NaN NaN 
+Wave_Initiation_Rate_Range
+13.756393 22.486537 NaN NaN NaN 
+Body_Wave_Number_Median
+1.527374 1.337166 NaN NaN NaN 
+Body_Wave_Number_Range
+0.655978 1.361883 NaN NaN NaN 
+Asymmetry_Median
+-0.007169 -0.016980 NaN NaN NaN 
+Asymmetry_Range
+0.168709 0.117870 NaN NaN NaN 
+Reverse_Swimming
+4.912603 8.610856 NaN NaN NaN 
+Curling
+0.000000 2.316176 NaN NaN NaN 
+Stretch_Median
+0.640597 0.593327 NaN NaN NaN 
+Stretch_Range
+0.219439 0.216335 NaN NaN NaN 
+Attenuation_Median
+71.603300 60.378096 NaN NaN NaN 
+Attenuation_Range
+19.910243 43.863400 NaN NaN NaN 
+Traveling_Speed_Mean
+1.923261 2.392518 NaN NaN NaN 
+Brush_Stroke_Median
+0.053228 0.053321 NaN NaN NaN 
+Brush_Stroke_Range
+0.019477 0.020529 NaN NaN NaN 
+Activity_Index_Median
+27.065262 56.062988 NaN NaN NaN 
+Activity_Index_Range
+37.669143 54.019356 NaN NaN NaN 
+Wave_Initiation_Rate_10
+7.026891 10.647160 NaN NaN NaN 
+Body_Wave_Number_10
+1.100384 0.304236 NaN NaN NaN 
+Asymmetry_10
+-0.107570 -0.075504 NaN NaN NaN 
+Stretch_10
+0.557425 0.555829 NaN NaN NaN 
+Attenuation_10
+61.085581 28.610114 NaN NaN NaN 
+Brush_Stroke_10
+0.043933 0.045906 NaN NaN NaN 
+Activity_Index_10
+19.634350 30.873251 NaN NaN NaN 
+usability
+1.000000 1.000000 1.000000 1.000000 1.000000 
+status
+valid
+valid
+rejected
+rejected
+rejected
+highThr
+54.000000 64.000000 50.000000 38.000000 62.000000 
+lowThr
+38.000000 41.000000 37.000000 27.000000 50.000000 
+prevThr
+25.000000 25.000000 25.000000 25.000000 25.000000 
+highThrDef
+54.000000 64.000000 50.000000 38.000000 62.000000 
+lowThrDef
+38.000000 41.000000 37.000000 27.000000 50.000000 
+prevThrDef
+25.000000 25.000000 25.000000 25.000000 25.000000 
+manualSeparators
+
+
+
+
+
+separators
+1   21   22  545
+1  123  130  139  141  142  545
+1  110  111  545
+1   54   55  221  222  545
+1   21   22  243  244  545

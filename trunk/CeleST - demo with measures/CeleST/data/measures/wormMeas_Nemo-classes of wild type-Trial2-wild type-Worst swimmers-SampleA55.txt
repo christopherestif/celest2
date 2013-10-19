@@ -1,0 +1,82 @@
+fields 34
+worms 5
+Wave_Initiation_Rate_Median
+9.106515 7.138678 NaN NaN NaN 
+Wave_Initiation_Rate_Range
+5.036994 2.631234 NaN NaN NaN 
+Body_Wave_Number_Median
+1.531782 1.823496 NaN NaN NaN 
+Body_Wave_Number_Range
+0.716805 0.230782 NaN NaN NaN 
+Asymmetry_Median
+-0.032696 0.047472 NaN NaN NaN 
+Asymmetry_Range
+0.126869 0.023938 NaN NaN NaN 
+Reverse_Swimming
+0.000000 0.000000 NaN NaN NaN 
+Curling
+0.000000 0.000000 NaN NaN NaN 
+Stretch_Median
+0.394699 0.260342 NaN NaN NaN 
+Stretch_Range
+0.096809 0.125118 NaN NaN NaN 
+Attenuation_Median
+49.409413 77.995300 NaN NaN NaN 
+Attenuation_Range
+23.564845 9.519251 NaN NaN NaN 
+Traveling_Speed_Mean
+0.009261 0.562973 NaN NaN NaN 
+Brush_Stroke_Median
+0.028194 0.029030 NaN NaN NaN 
+Brush_Stroke_Range
+0.000353 0.004327 NaN NaN NaN 
+Activity_Index_Median
+12.152056 10.086521 NaN NaN NaN 
+Activity_Index_Range
+2.019069 3.834435 NaN NaN NaN 
+Wave_Initiation_Rate_10
+6.654673 5.913889 NaN NaN NaN 
+Body_Wave_Number_10
+1.142778 1.689146 NaN NaN NaN 
+Asymmetry_10
+-0.082117 0.031687 NaN NaN NaN 
+Stretch_10
+0.351850 0.208124 NaN NaN NaN 
+Attenuation_10
+40.746271 72.371916 NaN NaN NaN 
+Brush_Stroke_10
+0.028055 0.026663 NaN NaN NaN 
+Activity_Index_10
+10.792490 8.500484 NaN NaN NaN 
+usability
+0.898897 1.000000 0.998162 0.996324 0.000000 
+status
+valid
+valid
+rejected
+rejected
+rejected
+highThr
+40.000000 64.000000 32.000000 36.000000 NaN 
+lowThr
+24.000000 50.000000 17.000000 23.000000 0.000000 
+prevThr
+25.000000 25.000000 25.000000 25.000000 25.000000 
+highThrDef
+40.000000 64.000000 32.000000 36.000000 NaN 
+lowThrDef
+24.000000 50.000000 17.000000 23.000000 0.000000 
+prevThrDef
+25.000000 25.000000 25.000000 25.000000 25.000000 
+manualSeparators
+
+
+
+
+
+separators
+1    4    5   72   73   81   82   95   96   99  103  117  118  141  142  151  152  162  163  164  165  178  179  182  184  186  187  194  195  200  201  210  211  214  215  228  229  241  242  248  249  262  263  266  267  280  282  322  323  326  328  336  337  361  362  376  377  382  383  401  403  408  409  415  416  427  428  431  432  445  446  451  452  456  457  458  459  461  463  470  471  480  481  482  483  484  485  489  490  529  530  537  538  541  542  545
+1  545
+1   21   22  545
+1    2  441  442  545
+1  501  502  545

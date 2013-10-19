@@ -1,0 +1,82 @@
+fields 34
+worms 5
+Wave_Initiation_Rate_Median
+33.936919 34.129249 NaN NaN NaN 
+Wave_Initiation_Rate_Range
+18.774095 15.640128 NaN NaN NaN 
+Body_Wave_Number_Median
+1.397322 1.341112 NaN NaN NaN 
+Body_Wave_Number_Range
+0.350288 0.673096 NaN NaN NaN 
+Asymmetry_Median
+0.022890 -0.003145 NaN NaN NaN 
+Asymmetry_Range
+0.057586 0.083602 NaN NaN NaN 
+Reverse_Swimming
+0.000000 5.354186 NaN NaN NaN 
+Curling
+0.000000 0.000000 NaN NaN NaN 
+Stretch_Median
+0.530267 0.448169 NaN NaN NaN 
+Stretch_Range
+0.204428 0.254397 NaN NaN NaN 
+Attenuation_Median
+66.667617 54.877985 NaN NaN NaN 
+Attenuation_Range
+19.218706 22.466082 NaN NaN NaN 
+Traveling_Speed_Mean
+1.674374 3.121683 NaN NaN NaN 
+Brush_Stroke_Median
+0.067581 0.054247 NaN NaN NaN 
+Brush_Stroke_Range
+0.022068 0.034427 NaN NaN NaN 
+Activity_Index_Median
+70.167864 81.532428 NaN NaN NaN 
+Activity_Index_Range
+48.641849 43.841058 NaN NaN NaN 
+Wave_Initiation_Rate_10
+17.014102 19.507327 NaN NaN NaN 
+Body_Wave_Number_10
+1.213407 0.845943 NaN NaN NaN 
+Asymmetry_10
+-0.000452 -0.056011 NaN NaN NaN 
+Stretch_10
+0.452408 0.335784 NaN NaN NaN 
+Attenuation_10
+57.669804 44.102439 NaN NaN NaN 
+Brush_Stroke_10
+0.058419 0.042375 NaN NaN NaN 
+Activity_Index_10
+37.893847 56.199630 NaN NaN NaN 
+usability
+0.933824 1.000000 0.450368 0.299632 0.075368 
+status
+valid
+valid
+rejected
+rejected
+rejected
+highThr
+83.000000 73.000000 75.000000 43.000000 57.000000 
+lowThr
+37.000000 56.000000 14.000000 31.000000 42.000000 
+prevThr
+25.000000 25.000000 25.000000 25.000000 25.000000 
+highThrDef
+83.000000 73.000000 75.000000 43.000000 57.000000 
+lowThrDef
+35.000000 56.000000 14.000000 31.000000 42.000000 
+prevThrDef
+25.000000 25.000000 25.000000 25.000000 25.000000 
+manualSeparators
+286  287
+
+
+
+
+separators
+1  265  279  280  281  282  283  284  286  287  301  545
+1   94   96  369  375  545
+1   42   43   61   62   76   77   78   79   80   81   82   83  103  104  113  201  202  401  402  404  405  470  471  545
+1  201  221  381  382  545
+1  501  502  515  516  517  518  545
