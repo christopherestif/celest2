@@ -1,0 +1,82 @@
+fields 34
+worms 5
+Wave_Initiation_Rate_Median
+8.335123 NaN 8.141976 NaN NaN 
+Wave_Initiation_Rate_Range
+3.389678 NaN 2.899434 NaN NaN 
+Body_Wave_Number_Median
+1.748000 NaN 1.812067 NaN NaN 
+Body_Wave_Number_Range
+0.237582 NaN 0.288770 NaN NaN 
+Asymmetry_Median
+-0.017986 NaN -0.067110 NaN NaN 
+Asymmetry_Range
+0.111525 NaN 0.035275 NaN NaN 
+Reverse_Swimming
+0.551978 NaN 0.000000 NaN NaN 
+Curling
+0.000000 NaN 0.000000 NaN NaN 
+Stretch_Median
+0.390050 NaN 0.470167 NaN NaN 
+Stretch_Range
+0.159343 NaN 0.267749 NaN NaN 
+Attenuation_Median
+63.898829 NaN 64.739829 NaN NaN 
+Attenuation_Range
+20.812191 NaN 25.903925 NaN NaN 
+Traveling_Speed_Mean
+0.251844 NaN 0.344176 NaN NaN 
+Brush_Stroke_Median
+0.031015 NaN 0.030935 NaN NaN 
+Brush_Stroke_Range
+0.003641 NaN 0.004951 NaN NaN 
+Activity_Index_Median
+12.605546 NaN 12.781888 NaN NaN 
+Activity_Index_Range
+2.857638 NaN 4.903522 NaN NaN 
+Wave_Initiation_Rate_10
+6.815406 NaN 6.834237 NaN NaN 
+Body_Wave_Number_10
+1.616778 NaN 1.615551 NaN NaN 
+Asymmetry_10
+-0.091979 NaN -0.084297 NaN NaN 
+Stretch_10
+0.305726 NaN 0.320109 NaN NaN 
+Attenuation_10
+52.615947 NaN 50.321266 NaN NaN 
+Brush_Stroke_10
+0.029458 NaN 0.029276 NaN NaN 
+Activity_Index_10
+11.315752 NaN 10.536251 NaN NaN 
+usability
+0.970588 0.996324 0.957721 0.693015 0.000000 
+status
+valid
+rejected
+valid
+rejected
+rejected
+highThr
+33.000000 47.000000 43.000000 36.000000 NaN 
+lowThr
+13.000000 20.000000 21.000000 12.000000 0.000000 
+prevThr
+25.000000 25.000000 25.000000 25.000000 25.000000 
+highThrDef
+33.000000 47.000000 43.000000 36.000000 NaN 
+lowThrDef
+13.000000 20.000000 21.000000 12.000000 0.000000 
+prevThrDef
+25.000000 25.000000 25.000000 25.000000 25.000000 
+manualSeparators
+
+
+
+
+
+separators
+1   10   11   26   27  101  102  151  152  159  160  166  167  173  174  178  179  181  182  186  187  232  233  408  409  413  414  446  447  449  450  529  530  545
+1  521  522  541  542  545
+1  362  363  364  441  461  462  545
+1  101  102  150  151  164  165  179  180  205  206  227  228  235  236  261  262  270  271  287  288  294  295  325  326  327  328  339  340  406  407  412  414  461  462  477  478  481  482  545
+1  545
