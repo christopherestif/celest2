@@ -138,8 +138,8 @@ btnEdit = uicontrol('parent',mainPanel,'style','togglebutton','string','Toggle E
 uicontrol('parent',mainPanel,'style','pushbutton','string','Delete videos...','position',[160 yFilters+hFilters+10 150 30],'callback',@deleteVideos);
 uicontrol('parent',mainPanel,'style','pushbutton','string','Check consistency','position',[160 yFilters+hFilters+40 150 30],'callback',@checkSequences);
 
-uicontrol('parent',mainPanel,'style','pushbutton','string','1. Process videos...','position',[500 yFilters+hFilters+10 170 60],'callback',@processVideo);
-uicontrol('parent',mainPanel,'style','pushbutton','string','2. Compute measures...','position',[700 yFilters+hFilters+10 170 60],'callback',@checkResults);
+uicontrol('parent',mainPanel,'style','pushbutton','string','1. Process videos...','position',[500 yFilters+hFilters+10 170 60],'callback',@processVideo, 'enable', 'off');
+uicontrol('parent',mainPanel,'style','pushbutton','string','2. Compute measures...','position',[700 yFilters+hFilters+10 170 60],'callback',@checkResults, 'enable', 'off');
 uicontrol('parent',mainPanel,'style','pushbutton','string','3. Display results...','position',[900 yFilters+hFilters+10 170 60],'callback',@showMeasures);
 uicontrol('parent',mainPanel,'style','pushbutton','string','Quit','position',[1100 yFilters+hFilters+10 170 60],'callback',@closeWindow);
 

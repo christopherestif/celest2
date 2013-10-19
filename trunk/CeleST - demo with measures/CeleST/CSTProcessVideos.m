@@ -207,7 +207,7 @@ waitfor(mainFigure,'BeingDeleted','on');
             maxY = fileDB(videoBeingProcessed).well(2);
             newRayon = fileDB(videoBeingProcessed).well(3);
 
-            if traceOn; disp(['Process sequence: ', num2str(maxX), ' - ' , num2str(maxY), ' - ' , num2str(newRayon) ]); end
+            disp(['Process sequence: ', num2str(maxX), ' - ' , num2str(maxY), ' - ' , num2str(newRayon) ]);
 
             zoneOkForCompleteWorms = (  repmat((1-maxX:imWidth-maxX).^2,imHeight,1) + repmat((1-maxY:imHeight-maxY)'.^2, 1, imWidth) <= (newRayon - wellMarginSize).^2 );
             zoneOkForStartingWorms = (  repmat((1-maxX:imWidth-maxX).^2,imHeight,1) + repmat((1-maxY:imHeight-maxY)'.^2, 1, imWidth) <= (newRayon - wellMarginSize).^2 );
@@ -288,10 +288,8 @@ waitfor(mainFigure,'BeingDeleted','on');
             end
         end
         if traceOn; fprintf(fileToLog, ['end of processing sequence ', num2str(videoBeingProcessed),'\n']); end
-        if traceOn
-            for tt = 1:length(timingsLabel)
-                disp([timingsLabel{tt}, ' : ' , num2str(timings(tt)) , ' / ' , num2str( timingsTime(tt))]);
-            end
+        for tt = 1:length(timingsLabel)
+            disp([timingsLabel{tt}, ' : ' , num2str(timings(tt)) , ' / ' , num2str( timingsTime(tt))]);
         end
     end
 
@@ -341,7 +339,7 @@ waitfor(mainFigure,'BeingDeleted','on');
                             set(txtProcCurrent, 'string', fileDB(videoBeingProcessed).name);
                             set(txtProcFrame, 'string', ['Frames processed: 0 / ', num2str(totalFrames)]);
                             pause(0.001)
-                            if traceOn; disp(['Launch processing: ', num2str(omega(1)), ' - ' , num2str(omega(2)), ' - ' , num2str(radius) ]); end
+                            disp(['Launch processing: ', num2str(omega(1)), ' - ' , num2str(omega(2)), ' - ' , num2str(radius) ]);
                             processSequence
                         end
                     end
